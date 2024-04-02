@@ -61,6 +61,7 @@ const Footer = () => {
             <div>
               <p className="text-xl text-white">Get In Tuch</p>
             </div>
+            {/* input */}
             <form className="my-4 footerInputDiv">
               <div className="">
                 <input
