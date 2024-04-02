@@ -1,8 +1,7 @@
-import CategoryItems from "@/Components/CategoryItems/CategoryItems";
-import HomeHeroSection from "@/Components/HomeHeroSection/HomeHeroSection";
-import TrandingItems from "@/Components/TrandingItems/TrandingItems";
+import HomeHeroSection from "@/components/HomeHeroSection/HomeHeroSection";
 import ItemsAirrval from "./itemsArrival/page";
-import Branding from "@/Components/Branding/Branding";
+import Branding from "@/components/Branding/Branding";
+
 
 
 const Home =() => {
@@ -11,8 +10,6 @@ const Home =() => {
 
     <main className="">
         <HomeHeroSection/> 
-        {/* <CategoryItems/> */}
-        {/* <TrandingItems/> */}
         <ItemsAirrval/>
         <Branding/>
     </main>

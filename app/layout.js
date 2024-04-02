@@ -2,7 +2,8 @@ import { Roboto_Serif } from "next/font/google";
 import "./globals.css";
 import Navbar from "@/Components/SheardComponents/Navbar/Navbar";
 import Script from "next/script";
-import Footer from "@/Components/SheardComponents/Footer/Footer";
+import Footer from "@/components/SheardComponents/Footer/Footer";
+
 
 const inter = Roboto_Serif({ subsets: ["latin"], weight: ["100","300", "400", "500", "700"] });
 
