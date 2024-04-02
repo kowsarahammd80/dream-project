@@ -70,7 +70,7 @@ const Footer = () => {
                 />
               </div>
               <div className="footerButtonDiv flex items-center">
-                <button className="px-4"><i class="fa-solid fa-arrow-right text-black text-2xl"></i></button>
+                <button className="px-4"><i class="fa-solid fa-arrow-right setgit text-black text-2xl"></i></button>
               </div>
             </form>
           </div>
