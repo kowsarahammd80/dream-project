@@ -12,7 +12,7 @@ const ItemsAirrval = () => {
         <h1 className="HeadLine">New Arrivals</h1>
       </div>
 
-      {/* Items Show start*/}
+      {/* Items Show*/}
       <section className="my-6 mx-3">
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-3">
           {/* <div className="arrivalCardMainDiv">
