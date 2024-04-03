@@ -5,7 +5,7 @@ const TrandingItems = () => {
   return (
     <div>
       <section className="py-10 lg:py-20 xl:py-20 md:py-20 mx-4 xl:mx-28 lg:mx-28 md:mx-16">
-        {/* header section */}
+        {/* header section start */}
 
         <section>
           <div className="flex-none lg:flex justify-between items-center w-full">
@@ -45,7 +45,7 @@ const TrandingItems = () => {
           </div>
         </section>
 
-        {/* Items Section */}
+        {/* Items Section staer*/}
 
         <section className="py-5">
 
